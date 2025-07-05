@@ -1,0 +1,810 @@
+/*
+====================================
+Large Screen - Others
+====================================
+*/
+
+@media screen and (min-width: 1200px) and (max-width: 1399px) {
+    .new-business-section {
+      padding-top: 95px;
+      padding-bottom: 95px;
+    }
+    .new-reliability-single-items {
+      padding-right: 15px;
+      padding-bottom: 13px;
+      padding-left: 24px;
+      margin-top: 25px;
+    }
+    .new-reliability-section {
+      padding-bottom: 105px;
+    }
+    .new-copilot-right-box1 {
+      left: 120px;
+    }
+    .new-copilot-right-box3 {
+      left: 30px;
+    }
+    .new-copilot-right-box4 {
+      left: 115px;
+    }
+    .new-whatsapp-single-items {
+      padding: 20px 16px;
+    }
+    .new-whatsapp-single-items h4 {
+      font-size: 17px;
+    }
+    .new-whatsapp-items-right::after {
+      transform: translateY(-35%);
+      left: 230px;
+    }
+  }
+  
+/*
+====================================
+Medium Screen - Others
+====================================
+*/
+
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+    .new-header-left p br {
+      display: none;
+    }
+    .new-header-items {
+      padding: 16px 12px;
+    }
+    .new-header-items h6 {
+      padding-top: 22px;
+      font-size: 16px;
+    }
+    .new-header-items span {
+      width: 40px;
+      height: 40px;
+      line-height: 40px;
+    }
+    .new-header-items span img {
+      max-width: 24px;
+    }
+    .new-business-section {
+      padding-top: 95px;
+      padding-bottom: 105px;
+    }
+    .new-business-area {
+      flex-direction: column;
+    }
+    .new-business-area div {
+      align-self: flex-start;
+    }
+    .new-business-area p {
+      padding-top: 20px;
+    }
+    .new-reliability-single-items {
+      padding-right: 10px;
+      padding-bottom: 13px;
+      padding-left: 0;
+      margin-top: 15px;
+    }
+    .new-reliability-single-items p {
+      padding-top: 0;
+      font-size: 15px;
+    }
+    .new-reliability-section {
+      padding-bottom: 100px;
+    }
+    .tabs a {
+      padding: 9px 20px;
+      font-size: 15px;
+      margin-right: 9px;
+    }
+    .tabs li:first-child a {
+      padding: 9px 18px;
+    }
+    .new-panel-box-left ul li {
+      padding-top: 15px;
+      font-size: 16px;
+    }
+    .new-panel-box-left a {
+      margin-top: 35px;
+    }
+    .new-panel-box-left ul {
+      padding-top: 7px;
+    }
+    .new-token-section {
+      padding: 90px 0;
+    }
+    .new-tools-items img {
+      max-width: 170px;
+    }
+    .new-tools-top p br {
+      display: none;
+    }
+    .new-transparent-section {
+      padding: 90px 0;
+    }
+    .new-copilot-right-box1 {
+      left: 70px;
+    }
+    .new-copilot-right-box3 {
+      left: 30px;
+    }
+    .new-copilot-right-box4 {
+      left: 95px;
+    }
+    .new-whatsapp-single-items {
+      padding: 20px 16px;
+    }
+    .new-whatsapp-single-items h4 {
+      font-size: 17px;
+    }
+    .new-whatsapp-items-right::after {
+      transform: translateY(-28%);
+      left: 166px;
+    }
+    .new-whatsapp-section {
+      padding: 80px 0;
+    }
+    .new-contact-section {
+      padding: 90px 0;
+      padding-bottom: 50px;
+    }
+}
+  
+/*
+====================================
+Small Screen - Tablate
+====================================
+*/
+
+@media screen and (min-width: 768px) and (max-width: 991px) {
+    .section-title {
+      font-size: 32px !important;
+    }
+    .new-header-bottom {
+      padding-top: 50px;
+    }
+    .new-header-right {
+      padding-top: 35px;
+    }
+    .new-header-section {
+      padding-top: 85px;
+      padding-bottom: 75px;
+    }
+    .new-business-section {
+      padding-top: 75px;
+      padding-bottom: 95px;
+    }
+    .new-business-area p {
+      padding-top: 15px;
+      font-size: 16px;
+    }
+    .new-business-items {
+      margin-top: 50px;
+    }
+    .new-reliability-section {
+      padding-bottom: 75px;
+    }
+    .new-reliability-top p {
+      padding-top: 15px;
+      font-size: 16px;
+    }
+    .new-reliability-items {
+      margin-top: 50px;
+    }
+    .new-reliability-items img {
+      width: 100%;
+    }
+    .new-ready-area p br {
+      display: none;
+    }
+    .new-ready-area {
+      max-width: 620px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    .tabbedPanels-items ul {
+      min-width: 1160px;
+    }
+    .tabbedPanels-items {
+      overflow: auto;
+      padding-bottom: 15px;
+    }
+    .new-everything-top p {
+      padding-top: 20px;
+      font-size: 16px;
+    }
+    .new-everything-top p br {
+      display: none;
+    }
+    .new-everything-section {
+      padding-top: 80px;
+    }
+    .new-panel-box-left a {
+      margin-top: 45px;
+    }
+    .tabs {
+      margin-top: 40px;
+    }
+    .new-token-section {
+      padding: 70px 0;
+    }
+    .new-token-items {
+      margin-top: 30px;
+    }
+    .new-tools-top p br {
+      display: none;
+    }
+    .new-tools-top p {
+      padding-top: 20px;
+      font-size: 16px;
+    }
+    .new-tools-items {
+      margin-top: 20px;
+    }
+    .new-tools-section {
+      padding: 70px 0;
+    }
+    .new-transparent-section {
+      padding: 90px 0;
+    }
+    .new-transparent-inner1 p {
+      padding-top: 20px;
+      font-size: 16px;
+    }
+    .new-copilot-items {
+      padding-top: 50px;
+    }
+    .new-copilot-items-right {
+      margin-top: 65px;
+    }
+    .new-copilot-right-box1 {
+      top: -48px;
+      left: 245px;
+    }
+    .new-copilot-right-box2 {
+      top: 95px;
+      left: 50px;
+    }
+    .new-copilot-right-box3 {
+      top: 245px;
+      left: 95px;
+    }
+    .new-copilot-right-box4 {
+      top: 385px;
+      left: 180px;
+    }
+    .new-copilot-section {
+      padding: 90px 0;
+    }
+    .new-whatsapp-section {
+      padding: 70px 0;
+    }
+    .new-whatsapp-items-left {
+      padding-top: 55px;
+    }
+    .new-contact-section {
+      padding: 70px 0;
+      padding-bottom: 50px;
+    }
+    .new-contact-items {
+      padding-top: 35px;
+    }
+}
+  
+/*
+====================================
+Xtra Small Screen - Small Mobile
+====================================
+*/
+
+@media screen and (min-width: 576px) and (max-width: 767px) {
+    .section-title {
+      font-size: 30px !important;
+    }
+    .new-header-bottom {
+      padding-top: 50px;
+    }
+    .new-header-section {
+      padding-top: 85px;
+      padding-bottom: 75px;
+    }
+    .new-header-left p {
+      padding-top: 20px;
+    }
+    .new-header-right {
+      display: none;
+    }
+    .new-header-right-slider {
+      padding-top: 50px;
+    }
+    .new-header-right-slider .new-header-items span img {
+      max-width: 28px !important;
+      display: inline-block !important;
+    }
+    .new-header-items {
+      min-height: 240px;
+    }
+    .new-business-section {
+      padding-top: 70px;
+      padding-bottom: 70px;
+    }
+    .new-business-area p {
+      padding-top: 15px;
+      font-size: 16px;
+      padding-bottom: 30px;
+    }
+    .new-business-items {
+      margin-top: 30px;
+    }
+    .new-business-items {
+      min-height: 215px;
+    }
+    .new-reliability-section {
+      padding-bottom: 75px;
+    }
+    .new-reliability-top p {
+      padding-top: 15px;
+      font-size: 16px;
+    }
+    .new-reliability-top p br {
+      display: none;
+    }
+    .new-reliability-items {
+      margin-top: 50px;
+    }
+    .new-reliability-single-items {
+      padding-left: 0;
+      margin-top: 30px;
+    }
+    .new-ready-area p br {
+      display: none;
+    }
+    .tabbedPanels-items ul {
+      min-width: 1160px;
+    }
+    .tabbedPanels-items {
+      overflow: auto;
+      padding-bottom: 15px;
+    }
+    .new-everything-top p {
+      padding-top: 20px;
+      font-size: 16px;
+    }
+    .new-everything-top p br {
+      display: none;
+    }
+    .new-everything-section {
+      padding-top: 70px;
+    }
+    .new-panel-box-left a {
+      margin-top: 45px;
+    }
+    .tabs {
+      margin-top: 40px;
+    }
+    .panel-box {
+      padding-top: 55px;
+    }
+    .new-panel-box-left ul li {
+      font-size: 16px;
+    }
+    .new-token-section {
+      padding: 70px 0;
+    }
+    .new-token-items {
+      margin-top: 30px;
+    }
+    .new-everything-section {
+      padding-bottom: 70px;
+    }
+    .new-tools-section {
+      padding: 70px 0;
+    }
+    .new-tools-top p {
+      padding-top: 22px;
+      font-size: 16px;
+    }
+    .new-tools-area {
+      display: none;
+    }
+    .new-transparent-section {
+      padding: 70px 0;
+    }
+    .new-transparent-inner1 p {
+      padding-top: 20px;
+      font-size: 16px;
+    }
+    .new-transparent-inner2 {
+      padding-top: 30px;
+    }
+    .new-copilot-section {
+      padding: 70px 0;
+    }
+    .new-copilot-inner1 p {
+      padding-top: 15px;
+      font-size: 16px;
+    }
+    .new-copilot-items {
+      padding-top: 35px;
+    }
+    .new-copilot-items-left ul li {
+      padding-top: 16px;
+      font-size: 16px;
+    }
+    .new-copilot-items-left h4 {
+      padding-bottom: 10px;
+    }
+    .new-copilot-items-right img {
+      display: none;
+    }
+    .new-copilot-items-right::after {
+      display: none;
+    }
+    .new-copilot-right-box1 {
+      position: initial;
+    }
+    .new-copilot-right-box2 {
+      position: initial;
+    }
+    .new-copilot-right-box3 {
+      position: initial;
+    }
+    .new-copilot-right-box4 {
+      position: initial;
+    }
+    .new-copilot-right-box {
+      max-width: 100%;
+    }
+    .new-whatsapp-section {
+      padding: 30px 0;
+    }
+    .new-whatsapp-items-left {
+      padding-top: 35px;
+    }
+    .new-whatsapp-inner1 p {
+      padding-top: 20px;
+      font-size: 16px;
+    }
+    .new-whatsapp-inner2 {
+      margin-top: 40px;
+    }
+    .new-whatsapp-single-items {
+      margin-top: 15px;
+      max-width: 100%;
+    }
+    .new-whatsapp-items-right::after {
+      display: none;
+    }
+    .new-whatsapp-items-left h4 {
+      padding-bottom: 10px;
+    }
+    .new-whatsapp-items-left ul li {
+      padding-top: 15px;
+      font-size: 16px;
+    }
+    .new-faq-accordion .acc-head h6 {
+      font-size: 17px;
+    }
+    .new-faq-accordion .acc-content p {
+      font-size: 14px;
+    }
+    .new-faq-accordion .acc-head i {
+      font-size: 14px;
+    }
+    .new-contact-section {
+      padding-top: 65px;
+      padding-bottom: 35px;
+    }
+    .new-contact-items {
+      padding-top: 30px;
+    }
+    .new-contact-items-left div {
+      padding-bottom: 20px;
+    }
+}
+
+/*
+====================================
+Xtra Small Screen - Small Mobile
+====================================
+*/
+  
+@media screen and (max-width: 575px) {
+
+    .section-title {
+      font-size: 26px !important;
+    }
+    .new-header-section {
+      padding-top: 50px;
+      padding-bottom: 45px;
+    }
+    .new-header-left p {
+      padding-top: 20px;
+    }
+    .new-header-left p br {
+      display: none;
+    }
+    .new-header-right {
+      display: none;
+    }
+    .new-header-right-slider {
+      padding-top: 35px;
+    }
+    .new-header-right-slider .new-header-items span img {
+      max-width: 28px !important;
+      display: inline-block !important;
+    }
+    .new-header-bottom {
+      padding-top: 35px;
+    }
+    .new-header-bottom a {
+      margin-top: 20px;
+    }
+    .new-header-bottom::after {
+      content: url(../images/new-bactor2.svg);
+      left: 205px;
+      bottom: 20px;
+    }
+    .new-business-section {
+      padding-top: 50px;
+      padding-bottom: 50px;
+    }
+    .new-business-area p {
+      padding-top: 15px;
+      font-size: 15px;
+      padding-bottom: 00px;
+    }
+    .new-business-area p br {
+      display: none;
+    }
+    .new-business-items {
+      margin-top: 20px;
+    }
+    .new-business-items {
+      min-height: 175px;
+    }
+    .new-business-items h4 {
+      font-size: 16px;
+    }
+    .new-business-items p {
+      font-size: 14px;
+      padding-top: 10px;
+    }
+    .new-reliability-section {
+      padding-bottom: 55px;
+    }
+    .new-reliability-single-items {
+      padding-bottom: 12px;
+      padding-left: 0;
+      margin-top: 25px;
+    }
+    .new-reliability-single-items p {
+      font-size: 15px;
+    }
+    .new-reliability-items2 {
+      margin-top: 20px;
+    }
+    .new-ready-area p br {
+      display: none;
+    }
+    .new-ready-area a {
+      margin-top: 30px;
+    }
+    .tabbedPanels-items ul {
+      min-width: 1160px;
+    }
+    .tabbedPanels-items {
+      overflow: auto;
+      padding-bottom: 15px;
+    }
+    .new-everything-top p {
+      padding-top: 20px;
+      font-size: 16px;
+    }
+    .new-everything-top p br {
+      display: none;
+    }
+    .new-everything-section {
+      padding-top: 55px;
+    }
+    .new-panel-box-left a {
+      margin-top: 30px;
+    }
+    .tabs {
+      margin-top: 40px;
+    }
+    .panel-box {
+      padding-top: 35px;
+    }
+    .new-panel-box-left ul li {
+      font-size: 16px;
+    }
+    .new-panel-box-left ul {
+      padding-top: 0;
+    }
+    .new-token-section {
+      padding: 50px 0;
+    }
+    .new-token-items {
+      margin-top: 22px;
+    }
+    .new-token-items h4 {
+      margin-left: 12px;
+      font-size: 16px;
+    }
+    .new-token-items p {
+      margin-left: 12px;
+      padding-top: 5px;
+      font-size: 14px;
+    }
+    .new-everything-section {
+      padding-bottom: 55px;
+    }
+    .new-token-items h6 {
+      font-size: 16px;
+    }
+    .new-tools-section {
+      padding: 50px 0;
+    }
+    .new-tools-top p {
+      padding-top: 22px;
+      font-size: 16px;
+    }
+    .new-tools-top p br {
+      display: none;
+    }
+    .new-tools-area {
+      display: none;
+    }
+    .new-transparent-section {
+      padding: 50px 0;
+    }
+    .new-transparent-inner1 p {
+      padding-top: 20px;
+      font-size: 16px;
+    }
+    .new-transparent-inner2 {
+      padding-top: 20px;
+    }
+    .new-transparent-inner2-items {
+      padding: 30px 15px 22px;
+    }
+    .new-transparent-inner2-items ul {
+      padding-top: 15px;
+    }
+    .new-transparent-inner2-items-btn a {
+      margin-top: 20px;
+    }
+  
+    .new-copilot-section {
+      padding: 50px 0;
+    }
+    .new-copilot-inner1 p {
+      padding-top: 15px;
+      font-size: 16px;
+    }
+    .new-copilot-inner1 p br {
+      display: none;
+    }
+    .new-copilot-items {
+      padding-top: 30px;
+    }
+    .new-copilot-items-left ul li {
+      padding-top: 16px;
+      font-size: 14px;
+    }
+    .new-copilot-items-left h4 {
+      padding-bottom: 10px;
+      font-size: 17px;
+    }
+    .new-copilot-items-right img {
+      display: none;
+    }
+    .new-copilot-items-right::after {
+      display: none;
+    }
+    .new-copilot-right-box1 {
+      position: initial;
+    }
+    .new-copilot-right-box2 {
+      position: initial;
+    }
+    .new-panel-box-left h4 {
+      font-size: 22px;
+    }
+    .new-copilot-right-box3 {
+      position: initial;
+    }
+    .new-copilot-right-box4 {
+      position: initial;
+    }
+    .new-copilot-right-box {
+      max-width: 100%;
+      border-radius: 8px;
+    }
+    .new-copilot-right-box p {
+      padding-top: 5px;
+      font-size: 14px;
+    }
+    .new-copilot-right-box h6 {
+      font-size: 16px;
+    }
+    .new-whatsapp-section {
+      padding: 30px 0;
+    }
+    .new-whatsapp-items-left {
+      padding-top: 35px;
+    }
+    .new-whatsapp-inner1 p {
+      padding-top: 20px;
+      font-size: 16px;
+    }
+    .new-whatsapp-inner1 p br {
+      display: none;
+    }
+    .new-whatsapp-inner2 {
+      margin-top: 40px;
+    }
+    .new-whatsapp-single-items {
+      margin-top: 15px;
+      max-width: 100%;
+      border-radius: 8px;
+    }
+    .new-whatsapp-items-right::after {
+      display: none;
+    }
+    .new-whatsapp-items-left h4 {
+      padding-bottom: 10px;
+      font-size: 17px;
+    }
+    .new-whatsapp-items-left ul li {
+      padding-top: 15px;
+      font-size: 14px;
+    }
+    .new-whatsapp-single-items p {
+      font-size: 14px;
+      padding-top: 3px;
+    }
+    .new-whatsapp-single-items h4 {
+      font-size: 16px;
+    }
+    .new-faq-accordion .acc-head h6 {
+      font-size: 17px;
+    }
+    .new-faq-accordion .acc-content p {
+      font-size: 14px;
+    }
+    .new-faq-accordion .acc-head i {
+      font-size: 14px;
+    }
+    .new-faq-accordion .acc-head {
+      margin-top: 18px;
+      padding: 12px 0;
+    }
+    .new-contact-section {
+      padding-top: 45px;
+      padding-bottom: 35px;
+    }
+    .new-contact-items {
+      padding-top: 30px;
+    }
+    .new-contact-items-left div {
+      padding-bottom: 20px;
+    }
+    .new-contact-items-left p {
+      font-size: 14px;
+    }
+    .new-contact-items-left h6 {
+      padding-top: 5px;
+      font-size: 17px;
+    }
+    .new-contact-form input {
+      margin-bottom: 15px;
+      padding: 16px;
+    }
+    .new-contact-top p {
+      font-size: 14px;
+    }
+    .new-submit-btn input {
+      width: 100%;
+    }
+}
+  
