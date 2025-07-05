@@ -287,6 +287,9 @@ Small Screen - Tablate
     .new-contact-items {
       padding-top: 35px;
     }
+    .new-menu-area ul li a {
+      padding-left: 17px;
+    }
 }
   
 /*
@@ -499,6 +502,13 @@ Xtra Small Screen - Small Mobile
     .new-contact-items-left div {
       padding-bottom: 20px;
     }
+    .new-footer-left {
+      text-align: center;
+    }
+    .new-footer-section .row {
+      gap: 20px;
+    }
+
 }
 
 /*
@@ -805,6 +815,12 @@ Xtra Small Screen - Small Mobile
     }
     .new-submit-btn input {
       width: 100%;
+    }
+    .new-footer-left {
+      text-align: center;
+    }
+    .new-footer-section .row {
+      gap: 15px;
     }
 }
   
